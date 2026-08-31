@@ -1,15 +1,15 @@
 # 0xjesu — Builder / Indie Hacker
 
-**Currently building:** Herbarium Labs — [Replace with what you're building in one sentence]
-→ [Replace with your live URL]
+**Currently building:** Herbarium Labs — Agentic CES For Urban farming
+→ Herbariumlabs.com
 
-**Recent ships:**
-- [Replace with your latest launch or feature] — [date]
-- [Replace with another milestone] — [date]
+**Recent Milestones:**
+- beta.TraceOrigins.org — 01-June-2026
+- Taught in an IIT where I never got to study — 29th-30th August 2026
 
-**Traction:** [N users] · [$N MRR] · [N stars]
 
-📰 Follow the build: [X/Twitter] · [newsletter] · [your personal site or devbio link]
+
+📰 Follow Me
 
 ![Snake animation](https://0xjesu.github.io/0xjesu/github-contribution-grid-snake.svg)
 
