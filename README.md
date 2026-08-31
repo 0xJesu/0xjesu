@@ -1,6 +1,6 @@
 # 0xjesu — Builder / Indie Hacker
 
-**Currently building:** [Project Name] — [Replace with what you're building in one sentence]
+**Currently building:** Herbarium Labs — [Replace with what you're building in one sentence]
 → [Replace with your live URL]
 
 **Recent ships:**
