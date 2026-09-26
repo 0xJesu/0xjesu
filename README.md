@@ -1,11 +1,12 @@
-# 0xjesu — Builder / Indie Hacker
+# Jesu Neelkamal Borah — Techno-Managerial Professional | Emerging Tech Trainer
 
 **Currently building:** Herbarium Labs — Agentic CES For Urban farming
-→ Herbariumlabs.com
+→ Bekaamchor.com
+→ Traceorigins.org
 
-**Recent Milestones:**
+**Achievments:**
 - beta.TraceOrigins.org — 01-June-2026
-- Taught in an IIT where I never got to study — 29th-30th August 2026
+- Taught 5000 students and professionals in AI and Blockchain
 
 
 
