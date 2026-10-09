@@ -5,7 +5,7 @@
 → Traceorigins.org
 
 **Achievments:**
-- beta.TraceOrigins.org — 01-June-2026
+- beta.TraceOrigins.org - 01-June-2026
 - Taught 5000 students and professionals in AI and Blockchain
 
 
