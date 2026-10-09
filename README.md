@@ -1,6 +1,6 @@
 # Jesu Neelkamal Borah - Techno-Managerial Professional | Emerging Tech Trainer
 
-**Currently building:** Herbarium Labs — Agentic CES For Urban farming
+**Currently building:** Herbarium Labs - Agentic CES For Urban farming
 → Bekaamchor.com
 → Traceorigins.org
 
